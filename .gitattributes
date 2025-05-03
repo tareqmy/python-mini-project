@@ -1,3 +1,7 @@
 *.ipynb linguist-detectable=true
 *.ipynb linguist-language=python
 *.ipynb text
+
+# Jupyter notebook
+*.ipynb  text eol=lf
+*.ipynb filter=clean_notebook

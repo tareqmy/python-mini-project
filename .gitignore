@@ -1,2 +1,33 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+
+# Test and Coverage Reports
+.coverage
+.cache/
+.pytest_cache/
+htmlcov/
+
+# Logs
+*.log
+
+# IDE / Editor Directories
+.vscode/
+.idea/
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
